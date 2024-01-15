@@ -1,0 +1,19 @@
+.shadowBox {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.1);
+}
+
+.shadowBox2 {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+/* .pin {
+  display: flex;
+  align-items: center;
+  width: 180px;
+  color: var(--main-blue);
+} */
+
+.pin-icon {
+  font-size: 22px;
+  color: darkkhaki;
+}
