@@ -36,7 +36,7 @@ function App() {
             {/* Google Map */}
             <div style={{ height: '100vh', width: '100%' }}>
               <GoogleMapReact
-                bootstrapURLKeys={{ key: "AIzaSyD2wfjUxelV79i-PPFd_t3slbUUpDzX_-w" }}
+                bootstrapURLKeys={{ key: "API_KEY_HERE" }}
                 defaultCenter={defaultAddress.center}
                 defaultZoom={defaultAddress.zoom}
               >
