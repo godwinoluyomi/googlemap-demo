@@ -6,7 +6,7 @@ import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Button from 'react-bootstrap/Button';
-import NavBar from './components/navbar';
+import NavBar from './components/NavBar';
 import GoogleMapReact from 'google-map-react';
 import LocationPin from './components/LocationPin';
 
